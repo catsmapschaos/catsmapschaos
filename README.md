@@ -1,29 +1,18 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-1+-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/catsmapschaos?label=Followers&style=flat-square)](https://github.com/catsmapschaos)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 ## About
-Hey! I like cats, maps, and chaos. If you like any of those as well, we should talk.  
+Hey! I like cats, maps, and chaos. If you like any of those as well, we should talk. 
 
 ## FYI
-*This profile was generated as part of a mini event for Major League Hacking's AI Hackfest during a demonstration on MCP (model context protocol) servers.*
+*This profile was partially generated as part of a mini event for Major League Hacking's AI Hackfest during a demonstration on MCP (model context protocol) servers.*
 
+## Interests
+- Interests: Cats, Malware, Reading, Writing, Research, Music
 
-## Featured Projects
-- 🎲 catsmapschaos — MLH Readme Project. (Markdown) — github.com/catsmapschaos/catsmapschaos
-- 🛠️ cyberref — Cybersecurity study notes and references. (HTML/CSS) — github.com/catsmapschaos/cyberref
-
-## Next Hackathon
-- 🧠 **AI Hackfest** — Hosted by MLH, April 17-19, 2026 (Online). Build AI-powered hacks with workshops on GitHub Copilot and Google AI Studio. Open to students, professionals, and minors 13-18. [Event Details](https://events.mlh.io/events/13503-ai-hackfest)
-
-## Tech & Interests
-- 🔭 Focus: Cybersecurity, Malware Analysis
-- ❤️ Interests: Cats, Malware, Ethical Hacking
-
-## Be Chaotic
+## Stay Chaotic and Curious
 ```
  /\_/\  
 ( ^.^ ) 
